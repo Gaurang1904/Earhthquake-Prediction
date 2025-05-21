@@ -3,7 +3,7 @@
 A project done for the course CSE3505 - Essentials of Data Analytics under <b>ELANGO N M</b>
 <h3>Team members</h3>
 <ul>
-<li><b>AKASH R 20BCE1501</b> Github: <a href="https://github.com/akash-r34">akash-r34</a></li>
+<li><b>Gaurang R 20BCE1501</b> Github: <a href="https://github.com/Gaurang1904">akash-r34</a></li>
 
 </ul>
 <h2>Abstract</h2>
